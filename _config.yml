@@ -14,7 +14,7 @@ baseurl:          '/edabook'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: pyvideoeda/jekyll-gitbook
+# remote_theme: pyvideoeda/jekyll-gitbook
 
 toc:
   enabled: true
