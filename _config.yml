@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            pyvideoeda@gmail.com
+title:            컨트리뷰션 아카테미 생성형AI와 정적 페이지
+longtitle:        컨트리뷰션 아카테미 생성형AI와 정적 페이지
+author:           컨트리뷰션 아카테미 생성형AI와 정적 페이지
+email:            joeunpark@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  컨트리뷰션 아카테미 생성형AI와 정적 페이지.
 
 version:          1.0
 gitbook_version:  3.2.3
