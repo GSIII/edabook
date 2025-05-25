@@ -131,4 +131,3 @@ timeline
     2024      : 생성형 AI 시대 본격화
                 : Observability 대두
                 : Typing & PEP 지속적 관심
-'''
