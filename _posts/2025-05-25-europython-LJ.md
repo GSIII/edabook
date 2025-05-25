@@ -121,7 +121,7 @@ layout: post
 ```mermaid
 %%{init: { "fontFamily": "\"맑은 고딕\", \"Malgun Gothic\", \"Apple SD Gothic Neo\", \"Nanum Gothic\", Dotum, sans-serif" }}%%
 timeline
-    title 유럽 파이콘 키워드 트렌드 변화 (2020-2024)
+    title europython 키워드 트렌드 변화 (2020-2024)
     2020-2021 : 팬데믹 & 온라인 시대
                 : FastAPI 태동
                 : (Bottom: LLMs, Vector)
