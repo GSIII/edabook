@@ -1,6 +1,6 @@
 ---
 title: europython 키워드 트렌드 분석 (2020–2024)
-author: jinlee
+author: 이진
 date: 2025-05-25
 category: PyCon
 layout: post
