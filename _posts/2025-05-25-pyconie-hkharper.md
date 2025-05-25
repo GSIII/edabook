@@ -29,12 +29,12 @@ PyCon Ireland에서 나타난 주요 기술 키워드의 연도별 변화를 통
 *   **주요 기술 키워드:** `django`, `graphql`, `lmdb`, `neural`, `convolution`, `serverless`, `docker`, `micropython`
 *   **트렌드 요약:** `django`를 중심으로 한 웹 개발이 활발했으며, `neural` (신경망) 등 초기 머신러닝 관련 키워드와 `serverless`, `docker`와 같은 데브옵스 기술 키워드가 등장하기 시작했습니다.
 
-### 2018년: 데이터 과학 및 시각화 키워드의 부상
+### 2019년: 데이터 과학 및 시각화 키워드의 부상
 
 *   **주요 기술 키워드:** `data`, `science`, `visualisation`, `machine learning`, `asynchronous`, `functional`, `pypi`
 *   **트렌드 요약:** `data science` (데이터 과학), `visualisation` (시각화), `machine learning` (머신러닝) 키워드가 두드러지며 데이터 중심 기술에 대한 관심이 높아졌습니다. `asynchronous` (비동기) 프로그래밍 관련 키워드도 주목받았습니다.
 
-### 2019년: 머신러닝 심화 및 Kubernetes 키워드 확산
+### 2020년: 머신러닝 심화 및 Kubernetes 키워드 확산
 
 *   **주요 기술 키워드:** `tensorflow`, `nlp`, `kubernetes`, `django`, `flask`, `testing`, `database`
 *   **트렌드 요약:** `tensorflow`, `nlp` (자연어 처리) 등 머신러닝 분야의 심도 있는 기술 키워드가 나타났고, 데브옵스 영역에서는 `kubernetes` 키워드가 중요하게 다뤄졌습니다.
