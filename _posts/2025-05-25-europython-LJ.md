@@ -1,6 +1,6 @@
 ---
-title: PyCon 유럽 키워드 트렌드 분석 (2020–2024)
-author: ChatGPT
+title: europython 키워드 트렌드 분석 (2020–2024)
+author: jinlee
 date: 2025-05-25
 category: PyCon
 layout: post
