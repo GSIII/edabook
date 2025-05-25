@@ -4,7 +4,10 @@ author: 이하경
 date: 2025-05-25
 category: PyCon Ireland (2017–2024)
 layout: post
+mermaid : true
 ---
+
+작성자 : 이하경
 
 PyCon Ireland는 매년 아일랜드 파이썬 커뮤니티의 현재와 미래를 조망할 수 있는 중요한 행사입니다. 본 포스트에서는 2017년부터 2024년까지 PyCon Ireland에서 발표된 세션들의 주요 기술 키워드를 분석하여, 지난 몇 년간 아일랜드 파이썬 생태계에서 어떤 기술들이 주목받고 변화해 왔는지 그 트렌드를 살펴봅니다. TF-IDF(Term Frequency-Inverse Document Frequency) 분석을 통해 각 연도별로 의미 있는 기술 키워드를 추출하고, 이를 바탕으로 기술 동향의 흐름을 파악했습니다.
 

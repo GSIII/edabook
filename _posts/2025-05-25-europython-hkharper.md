@@ -4,7 +4,10 @@ author: 이하경
 date: 2025-05-25
 category: EuroPython 2020-2024
 layout: post
+mermaid: true
 ---
+
+작성자 : 이하경
 
 ## 서론  
 이 글은 2020년부터 2024년까지 EuroPython 컨퍼런스 유튜브 영상 데이터에서 TF-IDF로 추출한 핵심 기술 키워드를 분석한 결과를 담고 있습니다. 연도별 대표 키워드를 통해 컨퍼런스 주제의 변천사를 살펴봅니다.
