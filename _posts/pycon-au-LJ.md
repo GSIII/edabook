@@ -10,34 +10,16 @@ PyCon Australia(PyCon AU)는 수년간 호주 파이썬 커뮤니티의 핵심 �
 
 ## 2017년: 탐험과 교육의 서막
 
-*   **주요 키워date: 2024-12-06
-category: PyCon AU 분석
-layout: post
----
 
 PyCon Australia(PyCon AU)는 수년간 호주 파이썬 커뮤니티의 핵심 행사로,드:** `MicroPython`, `IoT`, `SDR`, `Django`, `교육`, `보안`, `데이터 시각화`, `Async 개발자, 데이터 과학자, 교육자, 열정적인 사용자들이 함께 모여 지식을 공유하고 새로운 기술 동향을 논의
 *   **하이라이트:**
     *   **Jim Mussared**의 "Tuning In with의하는 장이었습니다. 2017년부터 2024년까지의 방대한 강연 데이터를알 SDR & Python", **Damien George**의 "Using MicroPython in the wild" 등 마이크로컨트롤러와 하 통해 파이썬 생태계의 진화와 커뮤니티의 관심사 변화를 연도별 주요겠습니다. 제공해주신 PyCon AU 강연 데이터 기반의 연도별 키워드 리드웨어 제어에 대한 높은 관심.
     *   **Amanda Hogan**의 대규모 학생 대상 파이썬 교육, **Bruce포트를 Jekyll 블로그 포스트 형식으로 간소화하여 다시 작성해 드리겠습니다.
 
-```markdown
----
-title: 키워드 중심으로 살펴봅니다.
-
-## 2017년: 탐험과 교육의 해
-
-*   **주요 키워 "PyCon AU 키워드로 보는 파이썬 트렌드 (2017-2024)"
-author: "PyCon Fuda**의 OOP 교육 등 교육 분야의 열정.
-    *   Django 중심의 웹 개발과 함께드:** `MicroPython`, `IoT`, `SDR`, `Django`, `보안`, `교육`, `데이터 **Gregory Saunders**의 Asyncio 입문 강연.
 
 ## 2018년: 데이터베이스 강화 AU 분석 팀"
-date: 2024-12-06 # 실제 작성일로 변경해주세요 시각화`, `Asyncio`
-*   **특징:** 마이크로파이썬과 IoT 분야
-category: PyCon AU 분석
-layout: post
----
 
-PyCon Australia(PyCon AU)는 매년에 대한 높은 관심과 함께, 다양한 수준의 파이썬 교육 방법론이 활발히 논의되었습니다. 웹와 MicroPython 심화
+PyCon Australia(PyCon AU)는 매년에 대한 높은 관심과 함께, 다양한 수준의 파이썬 교육 방법론이 활발히 논의되었습니다. 웹과 MicroPython 심화
 
 *   **주요 키워드:** `PostgreSQL`, `MicroPython 효율`, `Web 호주 파이썬 커뮤니티의 열정과 기술 동향을 한눈에 볼 수 있는 자리입니다. Sockets`, `Celery`, `로깅`, `JavaScript 없는 웹`, `Unicode`, `패키징 (Py 기술에서는 Django가 중심이었고, 비동기 프로그래밍에 대한 초기 관심이 나타났습니다.
 
