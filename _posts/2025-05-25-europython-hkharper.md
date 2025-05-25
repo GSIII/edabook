@@ -2,7 +2,7 @@
 title: "EuroPython 연도별 기술 키워드 트렌드 분석 (2020–2024)"
 author: 이하경
 date: 2025-05-25
-category: europython 2020-2024
+category: EuroPython 2020-2024
 layout: post
 ---
 
