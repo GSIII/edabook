@@ -68,21 +68,65 @@ PyBR 키워드 분석에서 가장 두드러지는 변화 중 하나는 행사�
 *   **2023년:** 2023년의 키워드 데이터 상위 목록에는 `sala` (방), `manhã` (아침), `tarde` (오후), 특정 시간대, 그리고 `polenta`, `pinhão`, `uva`, `agnoline` 등 **행사 장소 및 일정, 브라질 남부 지역 특색을 나타내는 단어들**이 포함되었습니다. 스크립트 키워드는 일반적인 포르투갈어 단어들이 우세했으므로, 이는 해당 연도의 데이터 소스가 발표 내용 자체보다는 행사 운영 및 관련된 정보에 더 중점을 두었을 가능성을 시사합니다.
 *   **2024년:** 앞서 상세 분석에서 언급했듯이, 2024년 데이터는 **행동 강령 관련 키워드의 압도적인 비중**을 통해 **안전하고 포용적인 행사 환경 조성이 핵심 목표였음**을 명확히 보여줍니다. 행사의 공식 웹사이트 주소(`pythonbrasil.org.br`) 및 Discord 링크(`bit.ly/nfe7vdgbjn`)도 상위 키워드로 나타나 커뮤니케이션 채널의 중요성을 강조합니다.
 ```mermaid
-graph TD
-  A[PyCon Brazil 행사 2017-2024] --> B[소스 분석 데이터]
-  B --> C[영상 성과 2017-2018]
-  C --> C1[인기 영상 악성코드 유전 알고리즘 첫 직장]
-  C --> C2[조회수 좋아요 수 상위 목록]
-  C2 --> C3[악성코드 영상 Yan Orestes 압도적 인기]
-  B --> D[키워드 분석 2017-2024]
-  D --> D1[기술 주제 Python ML 데이터 웹 DB 클라우드]
-  D --> D2[행사 관련 pybrXXXX 발표 이벤트]
-  D --> D3{주목할 만한 2024년 변화}
-  D3 --> E[안전 및 포용성 강조]
-  E --> E1[키워드 assédio discriminação codigo de conduta 등]
-  D --> D4[스크립트 포함 키워드]
-  D4 --> D5[상위권 포르투갈어 일반 단어]
-  D4 --> D6[하위권 구체적 덜 일반 용어]
+  graph TD
+    A[PyBR 핵심 주제] --> B[기술]
+    B --> B1(Python)
+    B --> B2(Dados/Data)
+    B --> B3(Machine Learning)
+    B --> B4(Web/Django)
+    B --> B5(Cloud/DB)
+
+    A --> C[커뮤니티 및 성장]
+    C --> C1(Comunidade/Pessoas)
+    C --> C2(Educação/Aprender)
+    C --> C3(Carreira/Emprego)
+    C --> C4(PyLadies/Afropython)
+
+    A --> D[안전 및 포용성 - 2024년 핵심]
+    D --> D1(Código de Conduta)
+    D --> D2(Assédio/Discriminação)
+    D --> D3(Segurança/Inclusão)
+    D --> D4(Diversidade)
+    D --> D5(Resposta/Ações)
+
+    A --> E[행사 운영]
+    E --> E1(Talks/Palestras)
+    E --> E2(Schedule/Horários)
+    E --> E3(Local/Sala)
+    E --> E4(Discord/Website)
+```
+```mermaid
+timeline
+    title PyCon Brazil 행사 데이터 트렌드 
+
+    section 초기 기술 및 커리어 관심 (2017-2018)
+        2017 : 다양한 기술 주제 영상 인기 (이미지 분석, ML, OpenCV, Kivy 등) [1-3]
+               스크립트 키워드: 일반 포르투갈어 우세, 구체적 기술 용어 하위권 [4, 5]
+               커리어 관련 키워드 등장 (프리랜서, 원격 근무) [2-5]
+        2018 : 'Creating a malware in Python' 영상 압도적 인기 [1, 6]
+               '첫 직장', '3개월 만에 개발자 되기' 등 커리어 관련 영상/키워드 상위권 [2, 5, 6, conversation history]
+               스크립트 키워드: 일반 포르투갈어 우세, 구체적 기술 용어 하위권 지속 [7, 8]
+               기술 주제 지속 (Python, Django, ML, 데이터, 웹, DB, 클라우드 등) [9, 10]
+               Afropython 커뮤니티 언급 [9]
+
+    section 커뮤니티 및 안전성 강조 시작 (2021-2022)
+        2021 : '행동 강령(código de conduta)' 키워드 하위 목록에 등장 [8, conversation history]
+               커뮤니티, 교육, 다양성 관련 키워드 지속 [7, 8, 17, 18, conversation history]
+               스크립트 키워드: 일반 포르투갈어 우세 지속 [11, 12]
+        2022 : '행동 강령(código de conduta)' 키워드 상위 목록으로 이동 [9, conversation history]
+               Discord, 공식 웹사이트 주소 키워드 상위권 등장 [9, conversation history]
+               차별(discriminação), 안전(segurança) 등 안전 및 포용성 관련 키워드 증가 [9, 10, 19, 20, conversation history]
+               스크립트 키워드: 일반 포르투갈어 우세 지속 [13, 14]
+
+    section 특정 연도 특이점 및 안전성 최우선 (2023-2024)
+        2023 : 행사 장소, 일정, 브라질 남부 지역 특색 관련 키워드 상위 목록에 포함 (sala, manhã, tarde, polenta, pinhão 등) [11, 12, conversation history]
+               이는 데이터 소스가 발표 내용보다 행사 운영 정보에 중점을 두었을 가능성 시사 [conversation history]
+               스크립트 키워드: 일반 포르투갈어 우세 지속 [15, 16]
+        2024 : **행동 강령(código de conduta) 관련 키워드 압도적인 비중** [23, 24, conversation history]
+               괴롭힘(assédio), 차별(discriminação), 배제(exclusão), 굴욕(humilhação) 등 문제 상황 및 대응 관련 키워드 대거 포함 [23, 24, conversation history]
+               **안전하고 포용적인 행사 환경 조성이 핵심 목표였음을 명확히 보여줌** [23, 24, conversation history]
+               공식 웹사이트 및 Discord 링크 상위 키워드로 등장하며 커뮤니케이션 채널 중요성 강조 [23, conversation history]
+               스크립트 키워드: 행동 강령 관련 용어 압도적 우세 [23, 24, conversation history]
 ```
 
 **결론**
