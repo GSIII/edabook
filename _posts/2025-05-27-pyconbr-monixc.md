@@ -126,7 +126,31 @@ timeline
                공식 웹사이트 및 Discord 링크 상위 키워드로 등장하며 커뮤니케이션 채널 중요성 강조 [23, conversation history]
                스크립트 키워드: 행동 강령 관련 용어 압도적 우세 [23, 24, conversation history]
 ```
-
+```mermaid
+mindmap
+  root((Python))
+      - Web & Backend
+          -- Frameworks: Django, Flask, Node
+          -- APIs & Services: REST, GraphQL, Microservices
+          -- Frontend: Javascript, Kivy
+      - Data Science & AI
+          -- ML & IA: Machine Learning, AI, Tensorflow
+          -- Data & Analytics: Big Data, Spark, PyData
+          -- Specific Tasks: Images, Temporal Series, NLP
+      - Infra & Ops
+          -- Cloud & Containers: AWS, Docker, Kubernetes, Serverless
+          -- Automation & DevOps: Ansible, CI/CD, SRE
+          -- Configuration: Etcd
+      - Testing & Quality
+          -- Types: Unit Tests, Static Typing
+          -- Tools: Linters
+      - Async & Concurrency
+          -- Concepts: Asyncio, Coroutines, Event Loop
+          -- Protocols: Websockets
+      - Security
+          -- Cyber Security: Malware, Application Security
+      - Databases: PostgreSQL, MongoDB, Redis, SQL
+```
 # **결론**
 
 PyCon Brazil은 2017년부터 2024년까지의 데이터를 통해 볼 때, **브라질 파이썬 커뮤니티의 기술적 성장을 이끌어가는 동시에, 커뮤니티의 건강한 문화 조성에도 깊이 관여하고 있는 역동적인 행사**임을 알 수 있습니다. 초기에는 보안, AI/ML, 커리어, 모바일 등 실용적이고 흥미로운 기술 주제들이 큰 관심을 받았으며, 시간이 지남에 따라 데이터 과학, AI/ML, 클라우드, 데브옵스 등의 현대적 기술 트렌드가 핵심 논의 주제로 자리 잡았습니다.
